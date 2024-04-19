@@ -2,7 +2,7 @@
 
 # What's szuletter
 
-最近在准备资料的时候，想找一个有深大抬头的信纸，结果发现没有电子版，而淘宝要10个大洋。转而向Github求助，发现了有哈工大的信纸模板['szuletter'](https://github.com/Kwongfei/szuletter)。于是研究了一下这个模板的制作，并在Chat老师的帮助下完成了这个szuletter的模板制作。
+最近在准备资料的时候，想找一个有深大抬头的信纸，结果发现没有电子版，而淘宝要10个大洋。转而向Github求助，发现了有哈工大的信纸模板[hitletter](https://github.com/DemerzelSun12/hitletter)。于是研究了一下这个模板的制作，并在Chat老师的帮助下完成了这个szuletter的模板制作。
 
 SZU Letter是为深圳大学两个校区制作的 LaTeX 信纸模板，主要文件是szuletter.cls以及对应的校名图像(主要是用福昕pdf从官网给的pdf里截取出来的)。制作本模板的目的是方便 TeX 用户（word感觉还是没有Tex那种一劳永逸的感觉）撰写带有深大标志的文档/信件，免去自行设置的繁琐过程，同时尽可能符合学校的相关规定，使生成的文件更加正式、美观。
 
